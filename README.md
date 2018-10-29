@@ -1,8 +1,9 @@
-# SmartBrain-api - v1
-Final project for Udemy course
+face-reognition api made for the final project of Udemy Online Web Development Course
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+1.Clone this repository
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+2.Run `npm install`
+
+3.Run `npm start`
+
+**use PostgreSQL
