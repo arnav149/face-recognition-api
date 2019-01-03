@@ -9,4 +9,4 @@ face-reognition api made for the final project of Udemy Online Web Development C
 **use PostgreSQL
 
 
-NOTE: You need to install all the npm dependencies for the code to run
+
